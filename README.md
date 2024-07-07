@@ -1,3 +1,4 @@
+<h3 align="center">Calendar of Events</h3><br>
 <p align="center">
   <a href="" rel="noopener">
   
