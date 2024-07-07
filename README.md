@@ -1,7 +1,8 @@
 <h3 align="center">Calendar of Events</h3><br>
 <p align="center">
   <a href="" rel="noopener">
-  ![Calendar-frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/d2109c72-b957-41ec-86e5-de1cf2c9a508)
+  ![frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/0a8bed22-4f5d-4bf5-b544-5c636a5fc538)
+
 
 </p>
 
