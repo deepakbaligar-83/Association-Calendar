@@ -2,7 +2,7 @@
 <p align="center">
   <a href="" rel="noopener">
 
-   ![frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/0e163360-3623-464c-a98e-da21ea456ead)
+![Screenshot (26)](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/6ecd271d-7417-46c7-b01b-f0880bd3142a)
 
 </p>
 
