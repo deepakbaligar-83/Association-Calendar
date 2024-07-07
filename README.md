@@ -1,11 +1,11 @@
 <p align="center">
   <a href="" rel="noopener">
-  
+  <h3 align="center">Calendar of Events</h3><br>
 ![Calendar-frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/b64bccf2-9772-4a35-822b-029a9119c735)
 
 </p>
 
-<h3 align="center">Calendar of Events</h3>
+
 <p align="center"> This is an Association Calendar built on top of react-big-calendar to facilitate making events with 
 crud functionality and ease of access to all the events at the end. The project should submit to continuous progress.
     <br> 
