@@ -1,15 +1,13 @@
 <h3 align="center">Calendar of Events</h3><br>
 <p align="center">
   <a href="" rel="noopener">
-  
- ![Calendar-frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/06844a90-4021-4c62-9923-e892ec2faa63)
-
+  ![Calendar-frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/d2109c72-b957-41ec-86e5-de1cf2c9a508)
 
 </p>
 
 
 <p align="center"> This is an Association Calendar built on top of react-big-calendar to facilitate making events with 
-crud functionality and ease of access to all the events at the end. The project should submit to continuous progress.
+crud functionality and ease of access to all the events at the end.
     <br> 
 </p>
 
@@ -24,7 +22,7 @@ crud functionality and ease of access to all the events at the end. The project 
 ##  About <a name = "about"></a>
 
 The project was made as a task for a job contest and it was greatly praised for the functionality and 
-flexibility in handling data directly in contact with the db.
+flexibility in handling data directly in contact with the database.
 
 Functions of Website:
  <br> 
