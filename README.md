@@ -2,7 +2,8 @@
 <p align="center">
   <a href="" rel="noopener">
   
-   ![Calendar-frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/2cda7e0d-151d-47aa-9e12-b0eafa561013)
+ ![Calendar-frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/06844a90-4021-4c62-9923-e892ec2faa63)
+
 
 </p>
 
@@ -64,7 +65,7 @@ A step by step series of examples that tell you how to get a development env run
 - [React](https://reactjs.org/) - Web Framework
 - [Redux](https://redux.js.org/) - State management tool
 - [React-Router](https://reactrouterdotcom.fly.dev/docs/en/v6) - Routing app
-- [sass](https://sass-lang.com/) - css extension
+- [Sass](https://sass-lang.com/) - css extension
 ## ✍️ Authors <a name = "authors"></a>
 1. Deepak Baligar
 
