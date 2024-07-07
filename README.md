@@ -1,6 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
-  ![Calendar-frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/10d58f4b-a70c-463f-a296-c018de944737)
+  
+![Calendar-frontend](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/b64bccf2-9772-4a35-822b-029a9119c735)
 
 </p>
 
