@@ -2,7 +2,7 @@
 <p align="center">
   <a href="" rel="noopener">
 
-![Screenshot (26)](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/6ecd271d-7417-46c7-b01b-f0880bd3142a)
+![Screenshot (26)](https://github.com/deepakbaligar-83/Association-Calculator/assets/99593920/6fd56247-9010-4bbb-afdc-7d7252112629)
 
 </p>
 
@@ -22,8 +22,7 @@ crud functionality and ease of access to all the events at the end.
 
 ##  About <a name = "about"></a>
 
-The project was made as a task for a job contest and it was greatly praised for the functionality and 
-flexibility in handling data directly in contact with the database.
+The website was made for a College Association and It is directly connected to Database.
 
 Functions of Website:
  <br> 
